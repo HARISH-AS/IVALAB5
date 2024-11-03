@@ -1,0 +1,20 @@
+Face X,Face Y,Width,Height,Emotion
+392,226,39,39,Happy
+54,168,64,64,Happy
+579,244,74,74,Happy
+247,144,73,73,Happy
+295,324,73,73,Happy
+303,164,68,68,Happy
+249,5,68,68,Happy
+331,379,66,66,Happy
+686,439,81,81,Happy
+75,436,77,77,Happy
+8,301,79,79,Happy
+87,25,76,76,Happy
+410,31,70,70,Happy
+578,565,70,70,Neutral
+566,123,89,89,Happy
+338,143,49,49,Happy
+
+Happy Count,Sad Count,Neutral Count,Overall Sentiment
+15,0,1,Majority Happy
